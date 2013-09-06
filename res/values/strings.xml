@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MyFirstApp</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="edit_message">Enter something</string>
-    <string name="button_send">Send</string>
+    <string name="app_name">Min första app</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="hello_world">Hej världen!</string>
+    <string name="edit_message">Skriv något</string>
+    <string name="button_send">skicka</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
 
 </resources>
